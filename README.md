@@ -7,7 +7,7 @@
 ---
 
 ## Background
-![Dashboard Preview](dahboard.png)
+![Dashboard Preview](dashboard.png)
 
 Supermarket retail di Malang Raya menghadapi tantangan dalam memantau performa penjualan secara menyeluruh — dari tren bulanan, kontribusi tiap cabang, hingga perilaku pembayaran pelanggan. Proyek ini menganalisis 1.000 transaksi selama 2023–2024 untuk menghasilkan insight yang dapat langsung ditindaklanjuti oleh manajemen.
 
